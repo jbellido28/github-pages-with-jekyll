@@ -1,4 +1,7 @@
-## Una pandemia a voces: lo que sabemos de la idea de que la transmisión del COVID-19 se desplomaría si habláramos menos (o más bajo)
+---
+title: "Una pandemia a voces: lo que sabemos de la idea de que la transmisión del COVID-19 se desplomaría si habláramos menos (o más bajo)"
+date: 2020-09-02
+---
 
 A lo largo de los meses de pandemia hemos aprendido muchas cosas. A menudo, por el camino largo y difícil. Hemos entendido el papel de las mascarillas, de la distancia social e, incluso, de la ventilación y los aires acondicionados. Sin embargo, en las semanas, a medida que se acumulan estudios e investigaciones, aparecen nuevas estrategias que podrían tener un papel importante en la modulación de la pandemia.
 
